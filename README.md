@@ -20,7 +20,6 @@ Este repositório contém os materiais e recursos das aulas de Engenharia de Sof
 ### Engenharia de Software I - Lista de Exercícios (Valor 12)
 **Data de Entrega:** 24/09/2025
 
-
-
+[📝 Formulário de Entrega](https://forms.gle/K9PDg8dE44UBuaUy8)
 
 ---
