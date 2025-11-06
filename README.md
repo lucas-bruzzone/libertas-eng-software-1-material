@@ -23,3 +23,19 @@ Este repositório contém os materiais e recursos das aulas de Engenharia de Sof
 [📝 Formulário de Entrega](https://forms.gle/K9PDg8dE44UBuaUy8)
 
 ---
+
+### Engenharia de Software I - Diagramas UML (Valor 20)
+**Data de Entrega:** 19/11/2025
+
+**Entrega:**
+- **Diagrama de Caso de Uso**  
+  - Diagrama visual  
+  - Especificação de 2 casos de uso  
+
+- **Diagrama de Classes**  
+  - Diagrama visual  
+  - Explicação dos relacionamentos  
+
+- **Diagrama de Sequência**  
+  - Diagrama visual  
+  - Documento explicativo  
